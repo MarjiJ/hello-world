@@ -1,5 +1,5 @@
 # hello-world
-Github tutorial 
+GitHub tutorial 
 
 
 My name is Joseph Marji, I am a computer scientist. I am currently maticulated in the bachleors of science program of SUNY Polytechnic Institute , Major: Computer information science.  
